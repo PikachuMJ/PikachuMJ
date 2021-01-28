@@ -1,0 +1,7 @@
+.Videos {
+  font-size: 20px;
+  color: black;
+  border: solid 1px;
+  height: 900px;
+  background: linear-gradient(90deg, skyblue, white, black)
+}
