@@ -5,7 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=PikachuMJ&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=c,js,go,python,java,php)
+![Languages](https://skillicons.dev/icons?i=c,js,python,java,php)
 
 #### Editors
 
