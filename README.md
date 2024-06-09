@@ -9,4 +9,4 @@
 
 #### Editors
 
-![Editors](https://skillicons.dev/icons?i=idea,phpstorm,pycharm,visualstudio,vscode)
+![Editors](https://skillicons.dev/icons?i=idea,pycharm,androidstudio,vscode)
